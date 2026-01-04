@@ -1,4 +1,4 @@
-# Visual Memory Engine 🧠
+# Visual Memory Engine (SS-Analyzer) 🧠
 
 A Zero-Cost, Semantic Visual Intelligence engine that acts as a visual memory layer. It processes images (screenshots), extracts semantic meaning using AI, checks for duplicates, and maintains a searchable memory stream.
 
@@ -19,8 +19,8 @@ A Zero-Cost, Semantic Visual Intelligence engine that acts as a visual memory la
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd Memory
+    git clone https://github.com/Knaveen007/ss-analyzer.git
+    cd ss-analyzer
     ```
 
 2.  **Create and activate a virtual environment:**
